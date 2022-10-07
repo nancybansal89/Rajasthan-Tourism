@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Heritage</title>
+		<meta charset="utf-8" />
+	 <link rel="stylesheet" type="text/css" href="C:/Project/css/pagestyle.css">
+	 <link rel="stylesheet" type="text/css" href="C:/Project/css/menu.css">
+	 
+	 <link rel="stylesheet" type="text/css" href="C:/Project/css/tabs.css">
+	</head>
+<body>
+        <h2>Heritage Rajasthan</h2>
+		<br>
+		<br>
+		
+		<br>
+		<br>
+		<div class="contain">
+		<div class="image">
+            <img src="C:\Project\Images\amer.jpg" class="ok" />
+		</div>
+		<div class="text">
+		<h3>Amber Fort</h3>
+	
+		<p>Amber Palace aka Amber Fort was constructed in 1592 AD by Raja Man Singh,
+           the Rajput commander of Akbar's army.
+           Later it was expanded and renovated by Raja Jai Sigh I.
+           Situated at a distance of 11 km from the city, it carries the pride of Jaipur.
+
+     
+         There are various other buildings within these courtyards i.e., 
+         Palace of Man Singh I, Garden, Tripolia gate, Lion gate, Diwan-I-Aam, Sheesh Mahal, Sukh Mahal, etc. 
+         Jaipur trip is incomplete without visiting the light show at this grand fort..</p>
+          
+	
+        </div>
+		</div>
+		<br>
+		<br>
+		<div class="contain">
+         <div class="image">
+		 <img src="C:\Project\Images\junagarh-fort-bikaner.JPG" class="ok" />
+		 </div>
+		 <div class="text">
+		 <h3>Junagarh Fort</h3>
+		 
+		 <p> Junagarh Fort, Bikaner Overview
+            The Junagarh Fort of Bikaner is a magnificent structure around which the city of Bikaner grew up.
+             The fort was initially called Chintamani and later renamed the Junagarh or Old fort in the 20th century. 
+             The foundations of the Junagarh fort was built in 1478 by Rao Bika. However, 
+            it existed just as a stone fort then. The present grand structure was inaugurated on 17th February 1589.
+        </p>
+
+
+		 
+          </div>
+		  </div>
+		  
+		  <br><br>
+		  <div class="contain">
+         <div class="image">
+		  <img src="Images\Castle-Mandawa.JPG" class="ok"/>
+		  </div>
+		   <div class="text">
+		  <h3>Castle Mandawa</h3>
+          <p> 
+            Castle Mandawa is a beautiful palace turned hotel- standing tall and proud as a testimony to the charming and colourful city of Mandawa.
+             It was originally a palace and a fortress which has now been converted into a luxurious heritage hotel.
+        
+		  
+		  
+		  </div>
+		  </div>
+
+		  <br>
+		  <br>
+		  <div class="contain">
+         <div class="image">
+                <img src="C:\Project\Images\mama-camp-jaisalmer.JPG" class="ok"/>
+		  </div>
+		  <div class="text">
+		  <h3>Nightlife</h3>
+		  <p>Nightlife is all about having fun after the sun sets.
+
+            Nightlife in Jaisalmer is full of energy and vigor.
+            
+            People of all sectors come together to enjoy the thrilling nightlife in this jewel city.
+            
+            For all those who do not like nightclubs and pubs, rest assured! The nightlife in Jaisalmer has much more to show than just nightclubs and pubs.
+            
+            Following are some best places to visit in Jaisalmer at night.
+		  <p>
+            If you love the desert and looking for things to do in Jaisalmer at night, this amazing desert safari experience and camp stay overnight will thrill you.
+            
+            The trip begins with camel rides over the sand dunes of Jaisalmer at twilight. Later you will receive a traditional and royal Rajasthani welcome complete with delicious tea and snacks. Before dinner, folk dancers and musicians will perform to entertain you during your time at the campfire.
+            
+            Later at night, a delicious dinner is served before you head to bed in comfortable tents set up amidst the desert. You can lie down on the sand beneath the skies and enjoy the spectacular view.
+            
+            If you are looking for a retreat away from the hustle bustle of the city,
+             the Mirvana Resort is one of the best places to visit Jaipur at night. It is perfect for those who seek a quiet nature retreat to rejuvenate the body and mind. Ride along the desert on camels and later stay the night at the elegant Mirvana Resort. The resort has an orchard and farm overgrown with vegetables, fruits, flowers, and herbs. During your stay at the Mirvana Resort, 
+            you can enjoy tractor rides along the farm and harvest your own vegetables and fruits too!</p>
+		  </div>
+		  </div>
+		  
+
+          
+		  <br><br>
+		  <div class="contain">
+         <div class="image">
+		  <img src="C:\Project\Images\nahargarh-fort-head-325.JPEG" class="ok"/>
+		  </div>
+		   <div class="text">
+		  <h3>Nahargarh Fort</h3>
+          <p> 
+            Nahargarh Fort, situated on the outskirts of Jaipur, is known for breathtaking views of the city and
+            for its extended wall that connects it to Jaigarh Fort. Embellished with delicate carvings and stonework, 
+             the Nahargarh Fort in Rajasthan is an impregnable structure. The Padao Restaurant is also a must-visit
+            if you're near Nahargarh Fort from where you're sure to enjoy a panoramic view of the city of Jaipur.
+		  
+		  
+		  </div>
+		  </div>
+
+		  <footer>
+			<p> &copy Winter-2022<a  href="http://420931va-simrankaur.freecluster.eu/LAB5_CALCULATOR_JS/small_calculator.html" >Simranjeet Kaur(2102116) </a></p></p>
+			 <p>Nancy Bansal(      )</p>
+			 <p>Yogita(      )</p>
+				  
+				  
+				  </footer>
+
+
+
+</body>
+</html>

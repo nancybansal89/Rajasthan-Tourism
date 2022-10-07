@@ -1,0 +1,36 @@
+tabs{
+    background-color: aqua;
+    
+}
+
+
+
+.tabs{
+	display:flex;
+	justify-content:space-around;
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	border-bottom:1px solid  black;
+	background-color: rgb(78, 70, 70);
+}
+.tab{
+	cursor:pointer;
+	padding:10px;
+	
+	
+
+}
+
+.tab:hover{
+	background-color:rgb(183, 39, 162);
+}
+
+.tab.active{
+	background-color:rgb(67, 128, 189);
+}
+.tab-content{
+	margin-left:20px;
+	margin-right:20px;
+	
+}

@@ -1,0 +1,338 @@
+
+.ok{
+      width:400px;
+	   height:400px;
+
+
+}	
+.contain {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+ img {
+       padding-left: 1em;
+	    width:200px;
+		height:200px;
+
+      }
+ .image {
+        flex-basis: 60%
+      }
+ .text {
+        font-size: 20px;
+        padding-left: 20px;
+		padding-right: 1em;
+      }
+	  
+	  
+h2{
+	color:black;
+	font-size:50px;
+}
+	
+	body{
+	      margin:0;
+		  padding:0;
+		  text-align:center;
+		  background:linear-gradient(rgbaa(0,0,50,0.5),rgba(0,0,50,0.5));
+		  background-size:cover;
+		  background-position:center;
+		  font-family:sans-serif;
+		  color:white;
+
+}
+	
+.contact-title
+{
+   margin-top:100px;
+   color:#fff;
+   text-transform:uppercase;
+   transition:all 4s ease-in-out;
+}	
+	
+.contact-title h1{
+       font-size:32px;
+        line-height:10px;
+}
+
+.contact-title h2{
+
+         font-size:16px;
+}
+form{
+  margin-top:50px;
+   transition:all 4s ease-in-out;
+}
+
+.form-control
+{
+width:600px;
+background:transparent;
+border:none;
+outline:none;
+border-bottom:1px solid gray;
+color:#fff;
+font-size:18px;
+margin-bottom:16px;
+}
+input{
+	
+	height:45px;
+	
+	
+}
+form .submit
+{
+	background:#ff5722;
+	border-color:transparent;
+	color:#fff;
+	font-size:20px;
+	font-weight:bold;
+	letter-spacing:2px;
+	height:50px;
+	margin-top:20px;
+}
+
+form .submit:hover{
+	background-color:#f44336;
+	cursor:pointer;
+}
+table {border:2px solid white;
+   text-align: center;
+   margin-left: 12em;
+   margin-right: 0em;
+}
+
+td {border:1px solid #56565e;
+padding:3px;
+margin:3px;
+
+}
+
+th {background: #ddb0c7; color:white;}
+	
+.back1{
+	background-image: url('../Images/pageimg.jpg');
+}
+.back2{
+	background-image: url('../Images/lastpic.jpg');
+}
+.back3{
+	background-image: url('../Images/holiday.jpg')
+
+}
+.back4{
+	background-image: url('../Images/heritage.jpg')
+
+}
+.back5{
+	background-image: url('../Images/about.jpg')
+}
+.info{
+	font-size:25px;
+	color:black;
+}
+.ghagra{
+	background-image:  url('../Images/last.jpg');
+
+	height:400px;
+	width:cover;
+}
+
+.heritage{
+
+	height:450px;
+	width:cover;
+}
+.hotel{
+	background-image:  url('../Images/hotelbest.jpg');
+
+	background-repeat: no-repeat;
+    background-size: 100% 100%;
+	height:600px;
+	width:cover;
+
+}
+.dot{
+	list-style: none;
+}
+#star{
+	text-align: left;
+}
+
+/*.rating {
+	margin:0 auto;
+font-size: 25px;
+
+}*/
+
+
+.fa {
+font-size: 25px;
+}
+.checked {
+color: orange;
+}
+.padharo{
+	color:rgb(52, 200, 111);
+	font-style: italic;
+}
+.wild{
+	color:rgb(52, 200, 111);
+	font-style: italic;
+}
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+header{
+	
+	background-image: url(C:/Project/Images/first-image.jpg);
+	height: 100vh;
+	background-size:cover;
+	background-position:center;
+	
+	
+}
+ul{
+    float:right;
+    list-style-type:none;	
+	margin-top:25px;
+	
+}
+
+ul li{
+	display: inline-block;
+	
+	
+}
+
+ul li a{
+	text-decoration:none;
+	color:#fff;
+	padding:5px 20px;
+	border:1px solid #fff;
+	transition:0.6s ease;
+}
+
+.logo img{
+	float:left;
+	width:150px;
+	height:auto;
+	
+}
+
+.main{
+	max-width:1200px;
+	margin:auto;
+	height:100vh;
+	padding-left:8%;
+	padding-right:8%;
+	box-sizing:border-box;
+	
+	
+}
+
+.row{
+	display:flex;
+	height:88%;
+	align-items:center;
+}
+
+.col{
+	flex-basis:50%;
+}
+
+table{
+	margin-right:auto;
+	margin-left:0px;
+	
+	
+}
+.card{
+	
+	
+	border-radius:10px;
+
+	/*padding:15px 25px;*/
+	/*box-sizing:border-box;*/
+	/*cursor:pointer;*/
+	/*margin:15px 20px;*/
+	/*background-position:left;*/
+	/*background-size:cover;*/
+	
+	
+     }
+	 /* table data */
+	/* td{
+		 height:500%;
+	width:500%;
+padding:10px;
+		 margin:10px;
+	 }
+th{
+	height:500%;
+	width:500%;
+padding:10px;
+margin:10px;
+
+}
+
+
+.card1{
+	background-image:url(C:/Project/Images/image-heritage.jpg);
+}
+.card2{
+	background-image:url(C:/Project/Images/wildlife.jpg);
+}
+.card3{
+	background-image:url(C:/Project/Images/image-festival.jpg);
+}
+.card4{
+	background-image:url(C:/Project/Images/image-hotel.jpg);
+}*/
+

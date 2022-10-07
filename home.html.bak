@@ -1,0 +1,75 @@
+<!-Simranjeet Kaur id:2102116 ->
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Rajasthan tourism </title>
+		<meta charset="utf-8" />
+	 <link rel="stylesheet" type="text/css" href="C:/Project/css/pagestyle.css">
+	 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css ">
+	 
+	</head>
+<body>
+
+      <div class="container">
+	      <div class="navbar">
+		   <img src="C:/Project/Images/woman-raj.jpg" class="logo">
+		   <nav>
+		   <ul >
+		   <li><a href="#"><i class="fa fa-home"></i>HOME</a></li>
+		   <li><a href="#"><i class="fa fa-user-circle"></i>ABOUT</a></li>
+		   <li><a href="C:/Project/contact.html"><i class="fa fa-envelope"></i>CONTACT</a></li>
+		   </ul>
+		   </nav>
+		   </div>
+		    
+		   <div class="row">
+		       <div class="col">
+			   <h4>RAJASTHAN TOURISM </h4>
+			   </div>
+			   <div class="col">
+			   <div class="card card1">
+			   <ul class="pic">
+			<li><a href="#"><i class="fa fa-university"></i><h5>HERITAGE</h5></a></li>
+			</ul>
+			  <!-- <h5>HERITAGE</h5>-->
+			   </div>
+			   <div class="card card2">
+			   <ul class="pic">
+			   <li><a href="C:/Project/wildlife.html"><i class="fas fa-paw"></i><h5>WILDLIFE</h5></a></li>
+			   
+         
+			   </ul>
+			   </div>
+			   <div class="card card3">
+			   <ul class="pic">
+			   <li><a href="#"><i class="fa fa-circle"></i><h5>FESTIVALS<h5></a></li>
+			   </ul>
+			   </div>
+			   <div class="card card4">
+			   <ul class="pic">
+			   <li><a href="#"<i class="fa-solid fa-hotel"></i><h5>HOTELS</h5></a></li>
+			   </ul>
+			   </div>
+			   
+			   </div>
+			   
+		   
+	  
+	  
+	  
+	  </div>
+
+
+       <footer id="footer">
+ <p> <a  href="http://420931va-simrankaur.freecluster.eu/LAB5_CALCULATOR_JS/small_calculator.html" >Simranjeet Kaur </a></p>2102116 &copy Winter-2022</p>
+  <p>Nancy Bansal(      )</p>
+  <p>Yogita(      )</p>
+	   
+	   
+	   </footer>
+
+
+
+
+</body>
+</html>

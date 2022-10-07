@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> contact</title>
+		<meta charset="utf-8" />
+	 <link rel="stylesheet" type="text/css" href="C:/Project/css/pagestyle.css">
+	 <script src="C:/Project/script.js"defer></script>
+	 <link href="C:/Project/css/form.css" rel="stylesheet">
+	</head>
+<body>
+<ul class="tabs">
+<li data-tab-target="#Address" class="active tab">Address</li>
+<li data-tab-target="#Call">Call</li>
+<li data-tab-target="#E-Mail">E-Mail</li>
+<li data-tab-target="#Chat">Chat</li>
+</ul>
+<div class="tab-content">
+<div id="Address" data-tab-content class="active">
+<h1>Address</h1>
+<p>......</p>
+
+</div>
+<div class="tab-content">
+<div id="Call" data-tab-content>
+<h1>Call</h1>
+<p>......</p>
+</div>
+
+<div class="tab-content">
+<div id="E-Mail" data-tab-content>
+<h1>E-Mail</h1>
+<p>
+<div class="contact-title">
+         <h1>Say Hello</h1>
+         <h2>We are always ready to serve you!</h2>
+     </div>
+ <div class="contact-form">	 
+	   <form id="contact-form" method="post" action="">
+	   <input name="name" type="text" class="form-control" placeholder="Your Name" required>
+	   <br>
+	   <input name="email" type="email" class="form-control" placeholder="Your Email" required>
+	   <br>
+	   <input name="topic" type="text" class="form-control" placeholder="Your Topic" required>
+	   <br>
+	   <textarea name="text" class="form-control" placeholder="Type the text" row="4" required></textarea>
+	   <br>
+	   <input type="submit" class="form-control submit" value="SUBMIT"></input>
+	   </div></p>
+</div>
+</div>
+
+<div class="tab-content">
+<div id="Chat" data-tab-content>
+<h1>Chat</h1>
+<p>
+<div class="contact-title">
+         <h1>Say Hello</h1>
+         <h2>We are always ready to serve you!</h2>
+     </div>
+ <div class="contact-form">	 
+	   <form id="contact-form" method="post" action="">
+	   <input name="name" type="text" class="form-control" placeholder="Your Name" required>
+	   <br>
+	   <input name="email" type="email" class="form-control" placeholder="Your Email" required>
+	   <br>
+	   <textarea name="message" class="form-control" placeholder="Message" row="4" required></textarea>
+	   <br>
+	   <input type="submit" class="form-control submit" value="SEND MESSAGE"></input>
+	   </div></p>
+</div>
+
+
+</body>
+</html>

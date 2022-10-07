@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>
+
+            Heritage
+
+        </title>
+
+        <meta charset="utf-8" />
+
+            <link rel="stylesheet" type="text/css" href="styles.css">
+
+    </head>
+
+    <body>
+
+       <div class="container">
+
+        <div class="imgCt">
+
+            <img src="C:\Project\Images\amer-fort.JPG">
+
+           
+
+        </div>
+		
+		 <div class="content">
+
+            <h1>Amer Fort</h1>
+
+            <p>Amber Palace aka Amber Fort was constructed in 1592 AD by Raja Man Singh,
+
+                the Rajput commander of Akbar's army.
+
+                 Later it was expanded and renovated by Raja Jai Sigh I.
+
+                  Situated at a distance of 11 km from the city, it carries the pride of Jaipur.
+
+       
+
+             
+
+                 There are various other buildings within these courtyards i.e.,
+
+                 Palace of Man Singh I, Garden, Tripolia gate, Lion gate, Diwan-I-Aam, Sheesh Mahal, Sukh Mahal, etc.
+
+               Jaipur trip is incomplete without visiting the light show at this grand fort.
+
+             </p>
+
+        </div>
+
+       </div>

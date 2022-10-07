@@ -1,0 +1,102 @@
+#bodypage1{
+
+    background-image: url(C:/Project/Images/th.jpg);
+   /* height: 100vh;*/
+    background-size:cover;
+    background-position:center;
+    background-repeat:repeat-y;
+    background-repeat:repeat-x;
+    
+    }
+    ul{
+    float:right;
+    list-style-type:none;
+    margin-top:25px;
+    
+    }
+    
+    
+    
+    ul li{
+    display: inline-block;
+    
+    
+    }
+    
+    
+    
+    ul li a{
+    text-decoration:none;
+    color:#fff;
+    padding:10px 20px;
+    border:1px solid #fff;
+    transition:0.6s ease;
+    }
+    
+    
+    
+    .logo img{
+    float:left;
+    width:150px;
+    height:auto;
+    
+    }
+    
+    
+    
+    .main{
+    max-width:1200px;
+    margin:auto;
+    
+    
+    }
+   
+    body{
+        margin:0;
+        padding:0;
+        font-family: sans-serif;
+        background: #7ea375;
+    }
+ .container
+ {
+     position:relative;
+    
+     top:50%;
+     left:50%;
+     transform: translate(-50%,-50%);
+     width:900px;
+     height: 200px;
+     padding: 20px;
+     box-sizing: border-box;
+     background:#fff;
+     border-radius: 4px;
+     box-shadow: 0 5px 15px rgba(0,0,0,.5);
+     display:flex;
+ }
+ .container .imgCt
+ {
+     width:200px;
+
+     flex: 0 0 150px;
+ }
+ .container .imgCt img{
+     max-width: 200px;
+     max-height: 200px;
+ }
+ .container .content
+ {
+     padding-left: 20px ;
+ }
+ .container .content h1{
+     margin:0;
+     padding-left: 0;
+     color:#3ab888;
+     font-size: 22px;
+
+ }
+ .container .content p
+ {
+  margin: 0;
+  padding: 10px 0 0;
+  text-align:justify;
+ }
